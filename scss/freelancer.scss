@@ -17,3 +17,11 @@
 @import "layout/portfolio.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
+
+.portfolio-item {
+  height: 300px;
+  border: 1px solid #727272;
+}
+.img-fluid {
+  overflow-y: hidden;
+}

@@ -9857,3 +9857,12 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.portfolio-item {
+  height: 300px;
+  border: 1px solid #727272;
+}
+
+.img-fluid {
+  overflow-y: hidden;
+}
